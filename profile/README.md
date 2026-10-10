@@ -1,42 +1,21 @@
+<h1 align="center">
+  <picture>
+    <img src="../Title Dark.png" alt="Compages Works">
+  </picture>
+</h1>
+
 <h3 align="center">
-  MOSAIC is an Super Smash Bros. Ultimate Mod Manager that allows you to easily enable and disable Installed Mods as well as downloading them from the Program & GameBanana itself offering an easy to access Modding Experience.
+ Compages Works is a team that make tools for Smash Bros.
 </h3>
 
-# The Team :
+ # Projects
 
-### FIREXDF : Lead Developper
-
-### FloweyGaming : Designer
-
-### Kerosci : Community Manager / Testers
-
-### Cwitt : Contributor / Sound Maker / Testers
-
-### Jugarrit : Contributors
-
-
-# Testers:
-GodsonTM,
-NedVedSed,
-LunaMystica,
-chichibooxd,
-skillyahn,
-Chumito,
-Ketoro,
-TNephilim,
-chrisalash,
-SuperSonicAl64,
-Juanjo3222,
-squoosh4,
-Vastor6624,
-xJusteen47,
-willamafton751,
-MoonbulaDragoon,
-ChristOurLife,
-DahatCocoa,
-AxolotlMAn19,
-lavaking993,
-ProtocoloRaimon,
-moosesnoozes,
-ghostyturner,
-35C0
+ <p align="center">
+  <a href="https://github.com/FIREXDF/MOSAIC">
+    <img src="https://github.com/FIREXDF/MOSAIC/raw/develop/assets/images/LogoTitle.png?raw=true" alt="MOSAIC" width="300">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/CompagesWorks/Atrium-UI">
+    <img src="https://github.com/CompagesWorks/Atrium-UI/raw/main/logo.png" alt="Artium-UI" width="300">
+  </a>
+</p>
