@@ -15,5 +15,6 @@
     <td align="center"><a href="https://github.com/FIREXDF/MOSAIC"><img src="https://github.com/FIREXDF/MOSAIC/raw/develop/assets/images/LogoTitle.png?raw=true" alt="MOSAIC" width="250"></a></td>
     <td align="center"><a href="https://github.com/CompagesWorks/Atrium-UI"><img src="https://github.com/CompagesWorks/Atrium-UI/raw/main/logo.png" alt="Atrium-UI" width="250"></a></td>
     <td align="center"><a href="https://github.com/CompagesWorks/MOSAICDebug"><img src="https://github.com/CompagesWorks/MOSAICDebug/blob/main/assets/images/logobig.png?raw=true" alt="MOSAIC Debug" width="250"></a></td>
+    <td align="center"><a href="https://github.com/CompagesWorks/Tessera"><img src="https://github.com/CompagesWorks/Tessera/raw/main/assets/logo.svg" alt="Tessera" width="250"></a></td>
   </tr>
 </table>
