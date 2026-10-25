@@ -1,0 +1,37 @@
+{
+  "supporters": [
+    { "name": "Sonickid1", "avatar": "sonickid1.png", "roleKey": "fightplanner.kofiMember", "role": "Ko-fi Member" },
+    { "name": "Vastor", "avatar": "vastor.png", "roleKey": "fightplanner.kofiMember", "role": "Ko-fi Member" }
+  ],
+  "testers": [
+    "Ketoro",
+    "lavaking993",
+    "Luukynha",
+    "ElDusst",
+    "Lunamystica",
+    "chichibooxd",
+    "TNephilim",
+    "Juanjo3222",
+    "Vastor6624",
+    "chrisalash",
+    "MoonbulaDragoon",
+    "Opitro",
+    "Skillyahtay",
+    "Godsontm",
+    "Ghostyturner",
+    "ChristOurLife"
+  ],
+  "oldTesters": [
+    "Faris",
+    "Moxort",
+    "Squiori",
+    "Willy.B",
+    "Dre",
+    "jpgmafia",
+    "Toni",
+    "Shuj",
+    "Leo",
+    "Darkstarry",
+    "Humplydinkle"
+  ]
+}
