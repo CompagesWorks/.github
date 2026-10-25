@@ -1,7 +1,7 @@
 {
   "supporters": [
     { "name": "Sonickid1", "avatar": "sonickid1.png", "roleKey": "fightplanner.kofiMember", "role": "Ko-fi Member" },
-    { "name": "Vastor", "avatar": "vastor.png", "roleKey": "fightplanner.kofiMember", "role": "Ko-fi Donator" }
+    { "name": "Vastor", "avatar": "vastor.png", "roleKey": "fightplanner.kofiMember", "role": "Ko-fi Donator" },
     { "name": "The Guffman", "avatar": "https://ko-fi.com/img/anon3.png?v=1", "roleKey": "fightplanner.kofiMember", "role": "Ko-fi Member" }
   ],
   "testers": [
